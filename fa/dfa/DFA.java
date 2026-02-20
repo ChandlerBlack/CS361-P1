@@ -16,7 +16,6 @@ public class DFA implements DFAInterface {
     private DFAState startState;
 
 
-
     /**
      * Constructor initializes empty sets and a null start state.
      */

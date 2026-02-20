@@ -1,5 +1,4 @@
 package fa.dfa;
-
 import fa.State;
 import java.util.LinkedHashMap;
 import java.util.Map;

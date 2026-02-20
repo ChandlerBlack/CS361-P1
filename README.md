@@ -1,8 +1,8 @@
 ****************
-* Project number/name
-* Class
-* Date
-* Your name
+* Project 1 
+* CS361
+* 2/20/26
+* ChandlerBlack, 
 ****************
 
 OVERVIEW:

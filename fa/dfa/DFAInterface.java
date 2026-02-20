@@ -1,7 +1,5 @@
 package fa.dfa;
-
 import fa.FAInterface;
-
 
 public interface DFAInterface extends FAInterface{
 
