@@ -7,7 +7,7 @@ public interface FAInterface {
 
 
 	/**
-	 * Adds a a state to the FA instance
+	 * Adds a state to the FA instance
 	 * @param name is the label of the state 
 	 * @return true if a new state created successfully and false if there is already state with such name
 	 */

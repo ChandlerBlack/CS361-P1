@@ -4,8 +4,13 @@ import fa.State;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+/**
+ *  Represents a single state in a Deterministic Finite Automaton.
+ * @author ChandlerBlack
+ * */
 public class DFAState extends State {
 
+    // A map of the transitions of a DFA
     private Map<Character, DFAState> transitions;
 
 
